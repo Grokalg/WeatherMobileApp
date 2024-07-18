@@ -1,0 +1,15 @@
+C:\Мои проекты\WeatherMobileApp\WeatherMobileApp\WeatherMobileApp\bin\Debug\netstandard2.0\WeatherMobileApp.deps.json
+C:\Мои проекты\WeatherMobileApp\WeatherMobileApp\WeatherMobileApp\bin\Debug\netstandard2.0\WeatherMobileApp.dll
+C:\Мои проекты\WeatherMobileApp\WeatherMobileApp\WeatherMobileApp\bin\Debug\netstandard2.0\ref\WeatherMobileApp.dll
+C:\Мои проекты\WeatherMobileApp\WeatherMobileApp\WeatherMobileApp\bin\Debug\netstandard2.0\WeatherMobileApp.pdb
+C:\Мои проекты\WeatherMobileApp\WeatherMobileApp\WeatherMobileApp\obj\Debug\netstandard2.0\WeatherMobileApp.csproj.AssemblyReference.cache
+C:\Мои проекты\WeatherMobileApp\WeatherMobileApp\WeatherMobileApp\obj\Debug\netstandard2.0\WeatherMobileApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Мои проекты\WeatherMobileApp\WeatherMobileApp\WeatherMobileApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Мои проекты\WeatherMobileApp\WeatherMobileApp\WeatherMobileApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Мои проекты\WeatherMobileApp\WeatherMobileApp\WeatherMobileApp\obj\Debug\netstandard2.0\WeatherMobileApp.AssemblyInfoInputs.cache
+C:\Мои проекты\WeatherMobileApp\WeatherMobileApp\WeatherMobileApp\obj\Debug\netstandard2.0\WeatherMobileApp.AssemblyInfo.cs
+C:\Мои проекты\WeatherMobileApp\WeatherMobileApp\WeatherMobileApp\obj\Debug\netstandard2.0\WeatherMobileApp.csproj.CoreCompileInputs.cache
+C:\Мои проекты\WeatherMobileApp\WeatherMobileApp\WeatherMobileApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Мои проекты\WeatherMobileApp\WeatherMobileApp\WeatherMobileApp\obj\Debug\netstandard2.0\WeatherMobileApp.dll
+C:\Мои проекты\WeatherMobileApp\WeatherMobileApp\WeatherMobileApp\obj\Debug\netstandard2.0\refint\WeatherMobileApp.dll
+C:\Мои проекты\WeatherMobileApp\WeatherMobileApp\WeatherMobileApp\obj\Debug\netstandard2.0\WeatherMobileApp.pdb

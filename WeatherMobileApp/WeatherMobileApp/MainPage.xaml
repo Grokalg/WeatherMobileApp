@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="WeatherMobileApp.MainPage">
+
+    <StackLayout BackgroundColor="#f9faf5">
+        <StackLayout BackgroundColor="#6395cf" >
+            <Label Text="Погода" FontSize="35" TextColor="black" FontAttributes="Bold" HorizontalOptions="Center" Margin="0,25,0,15"/>
+            <Image Source=""/>
+        </StackLayout>
+        <Frame CornerRadius="15" Margin="45,15,45,100">
+            <StackLayout>
+                <Entry x:Name="userInput" Placeholder="Введите город" FontSize="15"/>
+                <Button x:Name="getWeatherButton" Clicked="getWeatherButton_Clicked"  Text="Получить" FontSize="15" BackgroundColor="#f0c33c" CornerRadius="10" />
+            </StackLayout>
+        </Frame>
+        <Label x:Name="resultLabel" Text="Some" FontSize="25" HorizontalOptions="Center"/>
+    </StackLayout>
+
+</ContentPage>
