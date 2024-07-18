@@ -3,4 +3,5 @@
 1. Xamarin
 2. Newton.Json
 3. HttpClient
+4. OpenWeather API
 <img width="194" alt="image" src="https://github.com/user-attachments/assets/23b74cc1-e625-4c51-a375-ece7d6585e6e">
